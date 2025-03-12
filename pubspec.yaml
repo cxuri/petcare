@@ -38,6 +38,12 @@ dependencies:
   firebase_auth: ^5.5.0
   cloud_firestore: ^5.6.4
   google_sign_in: ^6.2.2
+  image_picker: ^1.1.2
+  firebase_storage: ^12.4.4
+  cached_network_image: ^3.4.1
+  intl: ^0.20.2
+  google_fonts: ^6.2.1
+  timelines: ^0.1.0
 
 dev_dependencies:
   flutter_test:
